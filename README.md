@@ -27,7 +27,7 @@ This project is developed to create an e-commerce website. Here's a summary of t
 
 ## Installation
 
-1. Clone the project: `git clone https://github.com/user/ecommerce-project.git`
+1. Clone the project: `git clone https://github.com/denizevliyaogluu/ecommerce-project.git`
 2. Install necessary dependencies: `npm install`
 3. Create the database configuration: `php artisan migrate`
 4. Start the server: `php artisan serve`
