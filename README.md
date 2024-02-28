@@ -1,36 +1,43 @@
-E-Commerce Website
+# E-Commerce Website
+
 This project is developed to create an e-commerce website. Here's a summary of the features provided for users and companies:
 
-Users
-Features
-Product Listing: Users can view available products.
-Order Placement: Users can add desired products to their cart and place orders.
-Bulk Order Operations: Users can order multiple products at once.
-Product Reviews: Users can leave reviews for products.
-Adding Products to Favorites: Users can add liked products to their favorites.
-Creating Wishlists: Users can create wishlists and add products to them.
-Filtering Products by Category: Users can filter products by specific categories.
+## Users
 
-Companies
-Features
-Adding Products: Companies can add new products.
-Editing Products: Companies can edit existing products.
-Deleting Products: Companies can delete products.
-Category Management: Companies can manage product categories.
-Product Categorization: Companies can categorize products.
-Viewing Orders for Products: Companies can view orders placed for their products.
+### Features
 
-Installation
-Clone the project: git clone https://github.com/denizevliyaogluu/ecommerce-project.git
-Install necessary dependencies: npm install
-Create the database configuration: php artisan migrate
-Start the server: php artisan serve
+- **Product Listing**: Users can view available products.
+- **Order Placement**: Users can add desired products to their cart and place orders.
+- **Bulk Order Operations**: Users can order multiple products at once.
+- **Product Reviews**: Users can leave reviews for products.
+- **Adding Products to Favorites**: Users can add liked products to their favorites.
+- **Creating Wishlists**: Users can create wishlists and add products to them.
+- **Filtering Products by Category**: Users can filter products by specific categories.
 
-Usage
-Sign up or log in to the site.
-Explore the products and add desired items to your cart.
-Review your cart and complete your order.
-Log in with a company account to manage products and view orders.
+## Companies
+
+### Features
+
+- **Adding Products**: Companies can add new products.
+- **Editing Products**: Companies can edit existing products.
+- **Deleting Products**: Companies can delete products.
+- **Category Management**: Companies can manage product categories.
+- **Product Categorization**: Companies can categorize products.
+- **Viewing Orders for Products**: Companies can view orders placed for their products.
+
+## Installation
+
+1. Clone the project: `git clone https://github.com/user/ecommerce-project.git`
+2. Install necessary dependencies: `npm install`
+3. Create the database configuration: `php artisan migrate`
+4. Start the server: `php artisan serve`
+
+## Usage
+
+1. Sign up or log in to the site.
+2. Explore the products and add desired items to your cart.
+3. Review your cart and complete your order.
+4. Log in with a company account to manage products and view orders.
 
 
 This README file provides basic information about the usage and setup of the project. Developers can customize this basic template according to the requirements and features of the project.
