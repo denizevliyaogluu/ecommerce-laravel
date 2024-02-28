@@ -1,3 +1,44 @@
+E-Commerce Website
+This project is developed to create an e-commerce website. Here's a summary of the features provided for users and companies:
+
+Users
+Features
+Product Listing: Users can view available products.
+Order Placement: Users can add desired products to their cart and place orders.
+Bulk Order Operations: Users can order multiple products at once.
+Product Reviews: Users can leave reviews for products.
+Adding Products to Favorites: Users can add liked products to their favorites.
+Creating Wishlists: Users can create wishlists and add products to them.
+Filtering Products by Category: Users can filter products by specific categories.
+
+Companies
+Features
+Adding Products: Companies can add new products.
+Editing Products: Companies can edit existing products.
+Deleting Products: Companies can delete products.
+Category Management: Companies can manage product categories.
+Product Categorization: Companies can categorize products.
+Viewing Orders for Products: Companies can view orders placed for their products.
+
+Installation
+Clone the project: git clone https://github.com/denizevliyaogluu/ecommerce-project.git
+Install necessary dependencies: npm install
+Create the database configuration: php artisan migrate
+Start the server: php artisan serve
+
+Usage
+Sign up or log in to the site.
+Explore the products and add desired items to your cart.
+Review your cart and complete your order.
+Log in with a company account to manage products and view orders.
+
+
+This README file provides basic information about the usage and setup of the project. Developers can customize this basic template according to the requirements and features of the project.
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
